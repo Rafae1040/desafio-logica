@@ -1,4 +1,4 @@
-## 🎮 Projeto: Calculadora de Partidas Rankeadas e Classificador de Nível de Herói
+## 🎮 Projeto: Calculadora de Partidas Rankeadas, Classificador de Nível de Herói e Classes de um Jogo: Heróis e Ataques
 
 E aí, pessoal! Aqui está um projetinho bem legal que eu fiz: uma Calculadora de Partidas Rankeadas e um Classificador de Nível de Herói! 🚀
 
@@ -16,3 +16,18 @@ O objetivo deste projeto é criar um programa simples em Python que classifica o
 #### Objetivo
 
 O objetivo deste projeto é criar um programa em Python que calcula o saldo de partidas ranqueadas de um jogador com base no número de vitórias e derrotas. Além disso, o programa classifica o nível do jogador de acordo com as regras 
+
+
+### 3️⃣ Classes de um Jogo: Heróis e Ataques
+
+#### Objetivo
+
+O objetivo deste projeto é praticar conceitos fundamentais de programação orientada a objetos (POO) eu fiz em Python, como:
+
+Criação de classes e objetos.
+
+Uso de propriedades e métodos.
+
+Aplicação de estruturas de decisão para definir comportamentos específicos com base em condições.
+
+Além disso, o projeto visa fornecer uma base para a criação de sistemas mais complexos, como jogos ou simulações, onde diferentes personagens possuem habilidades e ações únicas.
